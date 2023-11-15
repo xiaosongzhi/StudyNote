@@ -446,9 +446,6 @@ void MyObject::setIValue(int newIValue)
 ```c++
 import QtQuick 2.15
 import QtQuick.Controls 2.15
-
-
-
 Rectangle{
     x : 100
     y:50
